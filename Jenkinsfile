@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                echo 'Aswin - BuildSteps..'
+                echo 'Aswin -Test BuildSteps..'
 
             }
 
