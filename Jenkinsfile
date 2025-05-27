@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Aswin -Test BuildSteps..'
+                echo 'Aswin -Test BuildSteps...'
             }
         }
         stage('Test') {
